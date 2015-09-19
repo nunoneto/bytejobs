@@ -1,0 +1,17 @@
+{
+  "name": "bytejobs",
+  "version": "0.0.0",
+  "authors": [
+    "Nuno Neto <nuno.agn@gmail.com>"
+  ],
+  "description": "Find the right job for yourself, one unified frontend!",
+  "main": "main.js",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
